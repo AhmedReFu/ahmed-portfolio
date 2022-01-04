@@ -16,6 +16,7 @@ section{
     padding-left: 5%;
 }
 .hlap-width img{
+    height: 100%;
     width: 90%;
 }
 .link-button{
